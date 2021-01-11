@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+What I want to say is I love Jeff
 Use the left arrow to go back!
